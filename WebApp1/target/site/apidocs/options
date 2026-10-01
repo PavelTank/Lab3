@@ -1,0 +1,22 @@
+-classpath
+'C:/Users/Паша/.m2/repository/jakarta/servlet/jakarta.servlet-api/5.0.0/jakarta.servlet-api-5.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/Programs/ECLIPSE/mywork_web/WebApp1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Programs/ECLIPSE/mywork_web/WebApp1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'WebApp1 Maven Webapp 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'WebApp1 Maven Webapp 0.0.1-SNAPSHOT API'

@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/Паша/.m2/repository/jakarta/servlet/jakarta.servlet-api/5.0.0/jakarta.servlet-api-5.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/Programs/ECLIPSE/mywork_web/WebApp1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Programs/ECLIPSE/mywork_web/WebApp1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'WebApp1 Maven Webapp 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Programs/ECLIPSE/mywork_web/WebApp1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'WebApp1 Maven Webapp 0.0.1-SNAPSHOT API'
+lab.web
+C:\Users\Паша\.m2\repository\jakarta\servlet\jakarta.servlet-api\5.0.0\jakarta.servlet-api-5.0.0.jar = 1790870907185
+D:\Programs\ECLIPSE\mywork_web\WebApp1\src\main\java = 1790866910642
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\allclasses-index.html = 1790874163673
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\allpackages-index.html = 1790874163677
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\element-list = 1790874163613
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\help-doc.html = 1790874163711
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\index-all.html = 1790874163702
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\index.html = 1790874163704
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\jquery-ui.overrides.css = 1790874163771
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\member-search-index.js = 1790874163685
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\module-search-index.js = 1790874163679
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\overview-tree.html = 1790874163658
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\package-search-index.js = 1790874163681
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\script.js = 1790874163733
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\search.js = 1790874163736
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\serialized-form.html = 1790874163638
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\stylesheet.css = 1790874163732
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\tag-search-index.js = 1790874163687
+D:\Programs\ECLIPSE\mywork_web\WebApp1\target\reports\apidocs\type-search-index.js = 1790874163683
